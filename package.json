@@ -1,0 +1,21 @@
+{
+    "name": "Invite+",
+    "version": "3.1",
+    "description": "Hiiiiiiiiiiiiiii",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "engines": {
+        "node": "12.18.1"
+    },
+    "dependencies": {
+        "discord.js": "^12.2.0",
+        "sequelize": "5.21.13",
+        "sqlite3": "^5.0.0"
+    }
+}
