@@ -16,12 +16,13 @@ Sie basiert auf Discord.JS, Sqlite3 und Sequelize
 * prefix [Ändert das Prefix für deinen Server]
 
 ## Installation
-npm i
+npm i discord.js sequelize sqlite3 fs
 
 ## Dependencies
 * "discord.js": "^12.2.0"
 * "sequelize": "5.21.13"    
 * "sqlite3": "^5.0.0"
+* "fs": "0.0.1-security"
 
 ## Start
 ```node index.js```
