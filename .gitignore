@@ -1,7 +1,6 @@
 # Security
 /.env
 /.vscode
-/config.json
 /package-lock.json
 /indexNonGit.js
 
@@ -112,9 +111,3 @@ dist
 
 # TernJS port file
 .tern-port
-order.sqlite
-commands/config.json
-config.json
-config.json
-config.json
-config.json
