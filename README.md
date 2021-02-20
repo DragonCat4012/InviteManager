@@ -1,7 +1,6 @@
 
 # InviteManagerBot - Invite+
-Chia ist ein kleiner RPG Bot der sich auf die lange Reise des Lebens begab. Ihr Lebenssinn besteht darin anderen Freuden zu bereiten^^ 
-Sie basiert auf Discord.JS, Sqlite3 und Sequelize
+Simple Invite Manager Bot
 
 ## Commands
 ### :envelope:  Allgemein [6]
