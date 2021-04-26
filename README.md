@@ -5,7 +5,7 @@ Simple Invite Manager Bot
 ## Commands
 ### :envelope:  Allgemein [6]
 * help [Zeigt dir alle Befehle]
-* info [Zeigt dir Inos über mich ^^]
+* info [Zeigt dir Infos über mich ^^]
 * invites [Zeigt dir deine Invites]
 * leaderboard [Zeigt dir das Leaderboard nach Invites]
 
